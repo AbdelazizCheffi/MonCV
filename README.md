@@ -1,2 +1,2 @@
 
-This is my cv in react enjoy 
+This is my cv reacted using react enjoy 
